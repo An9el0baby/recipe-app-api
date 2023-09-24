@@ -1,6 +1,6 @@
 # Git
 .git
-.gitigore
+.gitignore
 
 # Docker
 .docker
