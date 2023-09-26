@@ -135,5 +135,5 @@ AUTH_USER_MODEL = 'core.User' # custom user model
 
 
 REST_FRAMEWORK = {
-    'DEAFULT_SCHEMA_CLASS': 'drf_spectacular.openapi.AutoSchema',
+    'DEFAULT_SCHEMA_CLASS': 'drf_spectacular.openapi.AutoSchema',
 }
